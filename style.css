@@ -8,7 +8,7 @@ body{
 .qr-code-card{
   border-style: none;
   border-radius: 15px;
-  margin: 140px auto;
+  margin: 11% auto 0%;
   min-width: 300px;
   width: 15%;
   padding: 15px;
@@ -24,13 +24,15 @@ body{
 }
 
 .card-title{
-  font-size: 1.2em;
-  width: 70%;
+  font-size: 1.3em;
+  width: 80%;
   margin: 15px auto;
 }
 
 .card-text{
   color: hsl(216, 15%, 48%);
+  margin: auto;
+  width: 85%;
 }
 
 .attribution{  

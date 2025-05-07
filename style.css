@@ -21,7 +21,7 @@ body{
 .qr-code-card{
   border-style: none;
   border-radius: 15px;
-  width: 260px;
+  width: 280px;
   padding: 12px;
   background-color: hsl(0, 0%, 100%);
 }
